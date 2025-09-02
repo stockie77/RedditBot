@@ -1,11 +1,11 @@
 
 import requests
 
-client_id="-vo1jgs5tX0-BojGtt6TYg",
-client_secret="MI5FfQKYlqcTIQAo9OdxegOMLzji4A",
-password="65CA!5K2AGB-U.",
-user_agent="firstBot",
-username="hanni777",
+    client_id=,
+    client_secret=,
+    password=,
+    user_agent=,
+    username=,
 
 print("latenode")
 
